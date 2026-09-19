@@ -188,4 +188,3 @@ print("Sum :", count)
 
 ## Result:
 Thus, the program that counts the number of lines in a text file story.txt that do not start with the alphabet 'T' was executed successfully.
-](https://github.com/NaveenKumarV2005/Module-4/tree/main)
